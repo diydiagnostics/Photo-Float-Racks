@@ -26,4 +26,4 @@ This repository represents an archive of various designs for 3D printed float ra
 ### [Imaging System](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Imaging%20System%20Designs)
 
 
-## [3-D Printing Specifications](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Miscellaneous%20Designs)
+### [3-D Printing Specifications](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Miscellaneous%20Designs)
