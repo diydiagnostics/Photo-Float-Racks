@@ -5,8 +5,8 @@
 This repository represents an archive of various designs for 3D printed float racks which can double as water bath floaters when flipped upside down.
 
 # Table of Contents:
-1. (Purpose-style paragraph with process)
-2. 3D Printer Details
+1. [Purpose-style paragraph with process](#Purpose)
+2. [3D Printer Details](#3D-Printer-Details)
 3. [Designs](#Designs)
 
 ## Purpose
