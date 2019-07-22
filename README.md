@@ -14,15 +14,16 @@ This repository represents an archive of various designs for 3D printed float ra
 ## 3D Printer Details
 
 ## Designs
-### [16 Capacity Design](https://github.com/diydiagnostics/LAMP-Tube-Racks/tree/master/16%20Capacity%20Racks)
+### [16 Capacity Design](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/16%20Capacity%20Designs)
 
 
-### 8 Capacity Design
+### [8 Capacity Design](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/8%20Capacity%20Designs)
 
 
-### 9 Capacity Design
+### [9 Capacity Design](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/9%20Capacity%20Designs)
 
 
-### Imaging System
+### [Imaging System](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Imaging%20System%20Designs)
 
-## 3-D Printing Specifications
+
+## [3-D Printing Specifications](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Miscellaneous%20Designs)
