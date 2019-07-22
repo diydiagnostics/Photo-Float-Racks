@@ -6,7 +6,7 @@ This repository represents an archive of various designs for 3D printed float ra
 
 # Table of Contents:
 1. [Purpose-style paragraph with process](#Purpose)
-2. [3D Printer Details](#3D-Printer-Details)
+2. [3-D Printing Specifications](#3D-Printer-Details)
 3. [Designs](#Designs)
 
 ## Purpose
