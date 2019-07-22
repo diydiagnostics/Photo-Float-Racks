@@ -4,12 +4,20 @@
 
 This repository represents an archive of various designs for 3D printed float racks which can double as water bath floaters when flipped upside down.
 
+# Table of Contents:
+1.
+2.
+3.
+4.Designs 
 
-## Designs 
 
-### 16 Capacity Design
-Click Here For Files:
-[16 Capacity Racks](https://github.com/diydiagnostics/LAMP-Tube-Racks/tree/master/16%20Capacity%20Racks)
+
+
+
+
+
+## Designs
+### [16 Capacity Design](https://github.com/diydiagnostics/LAMP-Tube-Racks/tree/master/16%20Capacity%20Racks)
 
 
 ### 8 Capacity Design
