@@ -49,17 +49,16 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [IS - Vertical.stl]  | ABS/PLA | Craftbot 2.0  | | 250/110 or ???/?? | 4 hours +
 
 
-[16C Dual Handle.stl]: 
-[16C Dual Handle.stl]: 
-[16C Peg Handle.stl]: 
-[16C Clip Handle.stl]: 
-[8C Backdrop.stl]: 
-[8C Light.stl]: 
-[8C Original.stl]: 
-[8C Side Clip Handle.stl]: 
-[8C Slot Handle + Backdrop.stl]: 
-[8C Slot Handle.stl]: 
-[8C Thumb Divots.stl]: 
-[IS - Horizontal.stl]: 
-[IS - Vertical.stl]: 
-[16C Clip Handle.stl]: 
+[16C Dual Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Dual%20Handle.stl
+[16C Dual Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Dual%20Handle.stl
+[16C Peg Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Peg%20Handle.stl
+[16C Clip Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Clip%20Handle.stl
+[8C Backdrop.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Backdrop.stl
+[8C Light.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Light.stl
+[8C Original.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Original.stl
+[8C Side Clip Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Side%20Clip%20Handle.stl
+[8C Slot Handle + Backdrop.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Slot%20Handle%20%2B%20Backdrop.stl
+[8C Slot Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Slot%20Handle.stl
+[8C Thumb Divots.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Thumb%20Divots.stl
+[IS - Horizontal.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Horizontal.stl
+[IS - Vertical.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical.stl
