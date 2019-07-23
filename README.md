@@ -6,31 +6,30 @@ This repository represents an archive of various designs for 3D printed float ra
 
 # Table of Contents:
 1. [Purpose-style paragraph with process](#Purpose)
-2. [3D Printing Details](#3D-Printer-Details)
-3. [Designs](#Designs)
-4. [3D Printing Specifications](#3D-Printing-Specifications)
+2. [Designs](#Designs)
+3. [3D Printing Specifications](#3D-Printing-Specifications)
 
 ## Purpose
 
-## 3D Printer Details
-
 ## Designs
-### [16 Capacity Design](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/16%20Capacity%20Designs)
+### [16 Capacity Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/16%20Capacity%20Designs)
 
 
-### [8 Capacity Design](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/8%20Capacity%20Designs)
+### [8 Capacity Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/8%20Capacity%20Designs)
 
 
-### [9 Capacity Design](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/9%20Capacity%20Designs)
+### [9 Capacity Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/9%20Capacity%20Designs)
 
 
-### [Imaging System](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Imaging%20System%20Designs)
+### [Imaging Systems](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Imaging%20System%20Designs)
 
 
 ### [Miscellaneous Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/Miscellaneous%20Designs)
 
 
 ## 3D Printing Specifications
+
+- Recommended: ABS only for float rack use due to the high temperature resistance
 
 🔥 = Developer's Choice
 
