@@ -29,7 +29,7 @@ This repository represents an archive of various designs for 3D printed float ra
 
 ## 3D Printing Specifications
 
-- Recommended: ABS only for float rack use due to the high temperature resistance
+- Recommended: ABS only for float rack use due to its temperature resistance at 60-70℃
 
 🔥 = Developer's Choice
 
