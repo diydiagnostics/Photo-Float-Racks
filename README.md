@@ -64,3 +64,6 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [9C - Original.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/9%20Capacity%20Designs/9C%20-%20Original.stl
 [IS - Horizontal.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Horizontal.stl
 [IS - Vertical.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical.stl
+
+🔥 = Developer's Choice
+*  = Estimated based on 3D Printer Details
