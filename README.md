@@ -31,3 +31,5 @@ This repository represents an archive of various designs for 3D printed float ra
 
 ## 3-D Printing Specifications
 
+Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (℃)  | Estimated Print Time
+----- | ------  | --------- | --------- | ---------|  --------
