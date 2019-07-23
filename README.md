@@ -45,3 +45,8 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [8C Slot Handle.stl]  | ABS | Craftbot 2.0  | | 250/110 | 40 minutes
 [8C Thumb Divots.stl] | ABS | Craftbot 2.0  | | 250/110 | 40 minutes
 [Imaging System Designs]  | ABS/PLA | Craftbot 2.0  | | 250/110 or ???/?? | 4 hours +
+
+[16C Dual Handle.stl]: 
+[16C Dual Handle.stl]: 
+[16C Peg Handle.stl]: 
+[16C Clip Handle.stl]: 
