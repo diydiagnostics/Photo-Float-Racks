@@ -31,7 +31,7 @@ This repository represents an archive of various designs for 3D printed float ra
 
 - Recommended: ABS only for float rack use due to its temperature resistance at 60-70℃
 
-🔥 = Developer's Choice
+- 🔥 = Developer's Choice
 
 Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (℃)  | Estimated Print Time
 ----- | ------  | --------- | --------- | ---------|  --------
