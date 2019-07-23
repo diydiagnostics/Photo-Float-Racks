@@ -33,6 +33,7 @@ This repository represents an archive of various designs for 3D printed float ra
 ## 3D Printing Specifications
 
 🔥 = Developer's Choice
+
 Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (℃)  | Estimated Print Time
 ----- | ------  | --------- | --------- | ---------|  --------
 [16C Dual Handle.stl] (🔥)  | ABS | Craftbot 2.0  | | 250/110 | 1 hour
