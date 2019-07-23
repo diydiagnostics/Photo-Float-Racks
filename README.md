@@ -66,4 +66,4 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [IS - Vertical.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical.stl
 
 🔥 = Developer's Choice
-*  = Estimated based on 3D Printer Details
+"*"  = Estimated based on 3D Printer Details
