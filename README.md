@@ -39,7 +39,7 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [16C Dual Handle.stl] | PLA | Craftbot 2.0  | 50-200 mm/s | 215/60  | 1 hour
 [16C Peg Handle.stl] (🔥)  | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 45 minutes
 [16C Clip Handle.stl] | PLA | Craftbot 2.0  | 50-200 mm/s | 215/60 | 50 minutes
-[8C Backdrop.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
+[8C Backdrop.stl] (🔥)  | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Light.stl] (🔥)  | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 40 minutes
 [8C Original.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Side Clip Handle.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
@@ -48,7 +48,7 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [8C Thumb Divots.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [9C - Original.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 45 minutes
 [IS - Horizontal.stl]  | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4 hours +
-[IS - Vertical.stl]  | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4 hours +
+[IS - Vertical.stl] (🔥)  | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4 hours +
 
 
 [16C Dual Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Dual%20Handle.stl
