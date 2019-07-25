@@ -47,7 +47,7 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [16C Peg Handle.stl] | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 45 minutes
 [16C Clip Handle.stl] | PLA | Craftbot 2.0  | 50-200 mm/s | 215/60 | 50 minutes
 [8C Backdrop.stl] (🔥)  | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
-[8C Light.stl] (🔥)  | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 40 minutes
+[8C Light.stl] (🔥)  | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 25 minutes
 [8C Original.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Side Clip Handle.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Slot Handle + Backdrop.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
