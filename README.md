@@ -36,7 +36,7 @@ In essence, the following tube rack designs grant all the benefits of modern wat
 
 ## 3D Printing Specifications
 
-- Recommended: ABS only for float rack use due to its temperature resistance at 60-70℃
+- Recommended: ABS filament only for float rack use due to its temperature resistance at 60-70℃
 
 - 🔥 = Developer's Choice
 
@@ -44,7 +44,7 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 ----- | ------  | --------- | --------- | ---------|  --------
 [16C Dual Handle.stl] (🔥)  | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 1 hour
 [16C Dual Handle.stl] | PLA | Craftbot 2.0  | 50-200 mm/s | 215/60  | 1 hour
-[16C Peg Handle.stl] (🔥)  | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 45 minutes
+[16C Peg Handle.stl] | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 45 minutes
 [16C Clip Handle.stl] | PLA | Craftbot 2.0  | 50-200 mm/s | 215/60 | 50 minutes
 [8C Backdrop.stl] (🔥)  | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Light.stl] (🔥)  | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 40 minutes
