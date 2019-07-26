@@ -56,7 +56,8 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [9C - Original.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 45 minutes
 [IS - Horizontal.stl]  | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4 hours +
 [IS - Vertical.stl]  | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4 hours +
-[IS - Vertical 2.0.stl] (🔥)  | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4.5 hours +
+[IS - Vertical 2.0.stl]   | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4.5 hours +
+[IS - Vertical 3.0.stl] (🔥)  | ABS/PLA | Craftbot 2.0  | 50-200 mm/s | 250/110 or 215/60 | 4.5 hours +
 
 
 [16C Dual Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Dual%20Handle.stl
@@ -74,3 +75,4 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [IS - Horizontal.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Horizontal.stl
 [IS - Vertical.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical.stl
 [IS - Vertical 2.0.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical%202.0.stl
+[IS - Vertical 3.0.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical%203.0.stl
