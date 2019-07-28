@@ -2,7 +2,7 @@ This folder contains the STL files for all tube rack imaging system variants.
 
 Current imaging system designs are built to accommodate any 8 capacity or 16 capacity tube rack, with 9 capacity rack compatibility planned for future installments. The IS Horizontal variant is best suited for Android smartphones, while the IS Vertical variants are optimized for iPhones but is also compatible with some Android smartphones (including the Galaxy S9).
 
-We recommend the IS Vertical 2.0 variant for its wider array of compatible smartphones, improved spacer system, and universal tube rack handle functionality.
+We recommend the IS Vertical 2.0 and 3.0 variants for their wider array of compatible smartphones, improved spacer system, and universal tube rack handle functionality.
 
 To use any of these designs:
 - Simply place a compatible tube rack on one of the two holder rails (either the angled rails or the rear flat rail).
