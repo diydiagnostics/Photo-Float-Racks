@@ -1,4 +1,4 @@
-# LAMP-Float-Racks
+# pH-LAMP-Float-Racks
 
 ## Welcome to the  [DIY Diagnostics](https://diystream.cns.utexas.edu/ "DIY Diagnostics")  [Freshman Research Initiative](https://cns.utexas.edu/fri "Freshman Research Initiative") repository for improved water bath floats.
 
