@@ -1,4 +1,4 @@
-# pH-LAMP-Float-Racks
+# colorimetric-LAMP-Float-Racks
 
 ## Welcome to the  [DIY Diagnostics](https://diystream.cns.utexas.edu/ "DIY Diagnostics")  [Freshman Research Initiative](https://cns.utexas.edu/fri "Freshman Research Initiative") repository for improved water bath floats.
 
@@ -10,7 +10,7 @@ This repository represents an archive of various designs for 3D printed float ra
 3. [3D Printing Specifications](#3D-Printing-Specifications)
 
 ## Purpose
-Modern LAMP reactions using water baths can prove cumbersome and inefficient. The typical process of inspecting assays comprises three steps: removing the water bath lid; detaching assay tubes from floating sponges; and holding up tube strips for visual inspection or photography. This yields inconsistent images, wastes valuable time, and introduces a host of factors that can affect the certainty of future results (i.e. leaving the water bath open while removing and replacing LAMP tubes creates temperature volatility).
+Modern colorimetric LAMP reactions using water baths can prove cumbersome and inefficient. The typical process of inspecting assays comprises three steps: removing the water bath lid; detaching assay tubes from floating sponges; and holding up tube strips for visual inspection or photography. This yields inconsistent images, wastes valuable time, and introduces a host of factors that can affect the certainty of future results (i.e. leaving the water bath open while removing and replacing LAMP tubes creates temperature volatility).
 
 The following multipurpose tube racks vastly simplify the process of managing LAMP reactions. The default orientation of the racks provides for straightforward assay assembly and storage; the ergonomic design of each rack facilitates solution pipetting and ensures a secure hold on the standard 8-tube strip. On the other hand, each tube rack functions as a water bath float when flipped over, eliminating the inconveniences posed by water bath sponges. When built using ABS, tube racks are extremely durable and heat resistant.
 
