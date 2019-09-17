@@ -3,6 +3,7 @@ This folder contains the STL files for all tube rack related designs that do not
 ## Included designs
 
 <p align="center">
+  3C - Original<br>
   <img src="https://i.imgur.com/rNn1stB.png" data-canonical-src="https://i.imgur.com/rNn1stB.png" width="200" height="152" />
 </p>
 
