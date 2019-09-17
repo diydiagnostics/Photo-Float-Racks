@@ -33,7 +33,7 @@ Second Row (left to right):
 - LAMP Box Prototype 1
 - 16C Sled - obsolete
 - [8C Side Clip Handle.stl]
-- [8C Slot Handle + Backdrop.stl]
+- [8C Side Clip Handle + Backdrop.stl]
 - [16C Peg Handle.stl] - PLA
 - IS Vertical Prototype 1 - obsolete
 
@@ -76,7 +76,7 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [8C Light.stl] (🔥)  | ABS | Craftbot 2.0  |  50-200 mm/s | 250/110 | 25 minutes
 [8C Original.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Side Clip Handle.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
-[8C Slot Handle + Backdrop.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
+[8C Side Clip Handle + Backdrop.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Slot Handle.stl]  | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [8C Thumb Divots.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 40 minutes
 [9C - Original.stl] | ABS | Craftbot 2.0  | 50-200 mm/s | 250/110 | 45 minutes
@@ -94,7 +94,7 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [8C Light.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Light.stl
 [8C Original.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Original.stl
 [8C Side Clip Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Side%20Clip%20Handle.stl
-[8C Slot Handle + Backdrop.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Slot%20Handle%20%2B%20Backdrop.stl
+[8C Side Clip Handle + Backdrop.stl]: https://github.com/diydiagnostics/pHLAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Side%20Clip%20Handle%20%2B%20Backdrop.stl
 [8C Slot Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Slot%20Handle.stl
 [8C Thumb Divots.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/8%20Capacity%20Designs/8C%20-%20Thumb%20Divots.stl
 [9C - Original.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/9%20Capacity%20Designs/9C%20-%20Original.stl
