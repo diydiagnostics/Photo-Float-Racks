@@ -19,6 +19,8 @@ These racks allow for much easier assay inspection. Removing LAMP tubes from the
 In essence, the following tube rack designs grant all the benefits of modern water bath floats and then some, with none of the downsides.
 
 ## Designs
+![alldesigns](https://i.imgur.com/1BKfuTm.jpg)
+
 ### [16 Capacity Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/16%20Capacity%20Designs)
 
 
