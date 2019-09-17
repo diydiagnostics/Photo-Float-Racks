@@ -33,7 +33,7 @@ Second Row (left to right):
 - LAMP Box Prototype 1
 - 16C Sled - obsolete
 - [8C Side Clip Handle.stl]
-- 8C Slot Handle - obsolete
+- [8C Slot Handle + Backdrop.stl]
 - [16C Peg Handle.stl] - PLA
 - IS Vertical Prototype 1 - obsolete
 
