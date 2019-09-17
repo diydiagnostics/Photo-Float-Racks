@@ -23,7 +23,7 @@ This folder contains the STL files for all 8 capacity tube rack variants.
 </p>
 
 <p align="center">
-  8C - Slot Handle + Backdrop<br> 
+  8C - Side Clip Handle + Backdrop<br> 
   <img src="https://i.imgur.com/rwIeT2w.png" data-canonical-src="https://i.imgur.com/rwIeT2w.png" width="200" height="128" />
 </p>
 
