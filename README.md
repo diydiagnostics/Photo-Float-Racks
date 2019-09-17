@@ -22,24 +22,24 @@ In essence, the following tube rack designs grant all the benefits of modern wat
 ![alldesigns](https://i.imgur.com/1BKfuTm.jpg)
 
 First Row (left to right):
-- 8C Prototype 1 - obsolete
+- 8C Prototype 1 - obsolete (design)
 - [8C Original.stl]
-- [8C Original.stl] - transparent PLA, obsolete
+- [8C Original.stl] - PLA, obsolete (material)
 - [8C Light.stl]
 - [3C - Original.stl]
 - [IS - Horizontal.stl]
 
 Second Row (left to right):
 - LAMP Box Prototype 1
-- 16C Sled - obsolete
+- 16C Sled - obsolete (design)
 - [8C Side Clip Handle.stl]
 - [8C Side Clip Handle + Backdrop.stl]
-- [16C Peg Handle.stl] - PLA
-- IS Vertical Prototype 1 - obsolete
+- [16C Peg Handle.stl] - PLA, obsolete (material)
+- IS Vertical Prototype 1 - obsolete (design)
 
 Third Row (left to right):
 - [16C Dual Handle.stl]
-- [16C Peg Handle.stl] - PLA
+- [16C Peg Handle.stl] - PLA, obsolete (material)
 - [16C Peg Handle.stl]
 - [16C Peg Handle.stl]
 - [16C Clip Handle.stl]
