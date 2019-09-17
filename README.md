@@ -21,11 +21,29 @@ In essence, the following tube rack designs grant all the benefits of modern wat
 ## Designs
 ![alldesigns](https://i.imgur.com/1BKfuTm.jpg)
 
-First Row (left to right): 8C Prototype 1 - obsolete; [8C Original.stl]; [8C Original.stl] - transparent PLA, obsolete; [8C Light.stl]; [3C - Original.stl]; [IS - Horizontal.stl]
+First Row (left to right):
+- 8C Prototype 1 - obsolete
+- [8C Original.stl]
+- [8C Original.stl] - transparent PLA, obsolete
+- [8C Light.stl]
+- [3C - Original.stl]
+- [IS - Horizontal.stl]
 
-Second Row (left to right): LAMP Box Prototype 1; 16C Sled - obsolete; 16C Side Clip - obsolete; 8C Slot Handle - obsolete; [16C Peg Handle.stl] - PLA; IS Vertical Prototype 1 - obsolete
+Second Row (left to right):
+- LAMP Box Prototype 1
+- 16C Sled - obsolete
+- 16C Side Clip - obsolete
+- 8C Slot Handle - obsolete
+- [16C Peg Handle.stl] - PLA
+- IS Vertical Prototype 1 - obsolete
 
-Third Row (left to right): [16C Dual Handle.stl]; [16C Peg Handle.stl] - PLA; [16C Peg Handle.stl]; [16C Peg Handle.stl]; [16C Clip Handle.stl]; [IS - Vertical 2.0.stl] - pre-handle clip compatibility
+Third Row (left to right):
+- [16C Dual Handle.stl]
+- [16C Peg Handle.stl] - PLA
+- [16C Peg Handle.stl]
+- [16C Peg Handle.stl]
+- [16C Clip Handle.stl]
+- [IS - Vertical 2.0.stl] - pre-handle clip compatibility
 
 ### [16 Capacity Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/16%20Capacity%20Designs)
 
@@ -84,3 +102,4 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [IS - Vertical.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical.stl
 [IS - Vertical 2.0.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical%202.0.stl
 [IS - Vertical 3.0.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/Imaging%20System%20Designs/IS%20-%20Vertical%203.0.stl
+[3C - Original.stl]: https://github.com/diydiagnostics/pHLAMP-Float-Racks/blob/master/Miscellaneous%20Designs/3C%20-%20Original.stl
