@@ -3,32 +3,27 @@ This folder contains the STL files for all tube rack imaging system variants.
 ### Included Designs
 
 <p align="center">
-  IS - Horizontal
-  
+  IS - Horizontal</b>
   <img src="https://i.imgur.com/io7sEif.png" data-canonical-src="https://i.imgur.com/io7sEif.png" width="200" height="188" />
 </p>
 
 <p align="center">
-  IS - Vertical
-  
+  IS - Vertical</b> 
   <img src="https://i.imgur.com/UDyCZdR.png" data-canonical-src="https://i.imgur.com/UDyCZdR.png" width="200" height="166" />
 </p>
 
 <p align="center">
-  IS - Vertical 2.0
-  
+  IS - Vertical 2.0</b> 
   <img src="https://i.imgur.com/1ozHVob.png" data-canonical-src="https://i.imgur.com/1ozHVob.png" width="200" height="162" />
 </p>
 
 <p align="center">
-  IS - Vertical 3.0
-  
+  IS - Vertical 3.0</b> 
   <img src="https://i.imgur.com/r3zpYcU.png" data-canonical-src="https://i.imgur.com/r3zpYcU.png" width="200" height="164" />
 </p>
 
 <p align="center">
-  IS - Vertical Spacers
-  
+  IS - Vertical Spacers</b> 
   <img src="https://i.imgur.com/BPbyJlc.png" data-canonical-src="https://i.imgur.com/BPbyJlc.png" width="200" height="145" />
 </p>
 
