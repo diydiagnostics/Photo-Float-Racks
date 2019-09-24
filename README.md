@@ -22,28 +22,31 @@ In essence, the following tube rack designs grant all the benefits of modern wat
 ![alldesigns](https://i.imgur.com/1BKfuTm.jpg)
 
 First Row (left to right):
-- 8C Prototype 1 - obsolete (design)
+- 8C Prototype 1*
 - [8C Original.stl]
-- [8C Original.stl] - PLA, obsolete (material)
+- [8C Original.stl]**
 - [8C Light.stl]
 - [3C - Original.stl]
 - [IS - Horizontal.stl]
 
 Second Row (left to right):
 - LAMP Box Prototype 1
-- 16C Sled - obsolete (design)
+- 16C Sled*
 - [8C Side Clip Handle.stl]
 - [8C Side Clip Handle + Backdrop.stl]
-- [16C Peg Handle.stl] - PLA, obsolete (material)
-- IS Vertical Prototype 1 - obsolete (design)
+- [16C Peg Handle.stl]**
+- IS Vertical Prototype 1*
 
 Third Row (left to right):
 - [16C Dual Handle.stl]
-- [16C Peg Handle.stl] - PLA, obsolete (material)
+- [16C Peg Handle.stl]**
 - [16C Peg Handle.stl]
 - [16C Peg Handle.stl]
 - [16C Clip Handle.stl]
 - [IS - Vertical 2.0.stl] - pre-handle clip compatibility
+
+* Obsolete design
+** Non-recommended material
 
 ### [16 Capacity Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/16%20Capacity%20Designs)
 
