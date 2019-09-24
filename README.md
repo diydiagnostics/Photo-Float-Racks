@@ -45,8 +45,8 @@ Third Row (left to right):
 - [16C Clip Handle.stl]
 - [IS - Vertical 2.0.stl] - pre-handle clip compatibility
 
-* Obsolete design
-** Non-recommended material
+//* Obsolete design
+//** PLA, non-recommended material
 
 ### [16 Capacity Designs](https://github.com/diydiagnostics/LAMP-Float-Racks/tree/master/16%20Capacity%20Designs)
 
