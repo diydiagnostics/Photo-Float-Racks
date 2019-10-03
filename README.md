@@ -1,6 +1,8 @@
 # colorimetric-LAMP-Float-Racks
 
-## Welcome to the  [DIY Diagnostics](https://diystream.cns.utexas.edu/ "DIY Diagnostics")  [Freshman Research Initiative](https://cns.utexas.edu/fri "Freshman Research Initiative") repository for improved water bath floats. This repository was created by Niam Kuttanna, Andrew Kan, and Haroon Dossani under the supervision of Dr. Timothy Riedel.
+## Welcome to the  [DIY Diagnostics](https://diystream.cns.utexas.edu/ "DIY Diagnostics")  [Freshman Research Initiative](https://cns.utexas.edu/fri "Freshman Research Initiative") repository for improved water bath floats.
+
+### This repository was created by Niam Kuttanna, Andrew Kan, and Haroon Dossani under the supervision of Dr. Timothy Riedel.
 
 This repository represents an archive of various designs for 3D printed float racks which can double as water bath floaters when flipped upside down.
 
