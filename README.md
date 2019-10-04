@@ -8,6 +8,7 @@ This repository was created by Niam Kuttanna, Andrew Kan, and Haroon Dossani und
 1. [Purpose](#Purpose)
 2. [Designs](#Designs)
 3. [3D Printing Specifications](#3D-Printing-Specifications)
+4. [3D Printing Guide](#3D-Printing-Guide)
 
 ## Purpose
 Modern colorimetric LAMP reactions using water baths can prove cumbersome and inefficient. The typical process of inspecting assays comprises three steps: removing the water bath lid; detaching assay tubes from floating sponges; and holding up tube strips for visual inspection or photography. This yields inconsistent images, wastes valuable time, and introduces a host of factors that can affect the certainty of future results (i.e. leaving the water bath open while removing and replacing LAMP tubes creates temperature volatility).
@@ -88,6 +89,14 @@ Design Name | Filament  | 3D Printer  | Extrusion Speed | Head/Bed Temperature (
 [IS - Vertical 2.0.stl]   | ABS/PLA | Craftbot 2.0  |  50-200 mm/s | 250/110 or 215/60 | 4.5 hours +
 [IS - Vertical 3.0.stl] (🔥)  | ABS/PLA | Craftbot 2.0  | 50-200 mm/s | 250/110 or 215/60 | 4.5 hours +
 
+## 3D Printing Guide
+To print one of these designs, follow the steps below.
+1. Download the STL file to a laptop or desktop computer.
+2. Load the STL file in a 3D printing software, such as Ultimaker Cura or Craftware.
+3. Slice the STL file and convert it to a GCODE file.
+4. Load the GCODE file onto an appropriate device for connecting to the printer, navigate to the necessary print startup menu, and start the print. Ensure sufficient filament is available.
+- For an Ultimaker 2.0 printer: export the GCODE file to an SD card and insert the SD card into the printer. Select the "Print" option, locate the respective file, and start the print.
+- For a Craftbot printer: a) copy the GCODE file onto a USB and insert the USB into the printer; b) connect to the printer over Wifi and start the print directly from Craftware; or c) connect to the printer using a USB A-B cable and start the print directly from Craftware.
 
 [16C Dual Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Dual%20Handle.stl
 [16C Dual Handle.stl]: https://github.com/diydiagnostics/LAMP-Float-Racks/blob/master/16%20Capacity%20Designs/16C%20-%20Dual%20Handle.stl
