@@ -22,6 +22,11 @@ These racks are designed for easy assay inspection. The rack designs include a s
 In addition we have designed a "photo booth" hood that the rack can sit directly on to provide consistent background lighting and focal distance from a smartphone. 
 
 ## Case-Study
+The [DIY Diagnostics](https://diystream.cns.utexas.edu/ "DIY Diagnostics") lab heavily utilizes the NEB 
+[Colorimetric LAMP 2X Master Mix](https://www.neb.com/products/m1800-warmstart-colorimetric-lamp-2x-master-mix-dna-rna#Product%20Information "Colorimetric LAMP 2X Master Mix") to develop sequence specific diagnostic tests. During development we take many photographs over timepoints and the racks described in this repository have enabled more accurate documentation of the diagnotic performance.
+
+INSERT PHOTOGRAPH HERE
+
 
 
 ## Designs
