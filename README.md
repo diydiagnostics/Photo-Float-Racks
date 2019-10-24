@@ -7,9 +7,10 @@ This repository was created by Niam Kuttanna, Andrew Kan, and Haroon Dossani und
 
 # Table of Contents:
 1. [Purpose](#Purpose)
-2. [Designs](#Designs)
-3. [3D Printing Specifications](#3D-Printing-Specifications)
-4. [3D Printing Guide](#3D-Printing-Guide)
+2. [Case Study](#Case-Study)
+3. [Designs](#Designs)
+4. [3D Printing Specifications](#3D-Printing-Specifications)
+5. [3D Printing Guide](#3D-Printing-Guide)
 
 ## Purpose
 Water bath floats are often not optimized for taking photographs of the reaction tubes during incubation. Often the process of inspecting assays comprises three steps: removing the water bath lid; detaching assay tubes from floating sponges; and holding up tube strips for visual inspection or photography. This yields inconsistent images, wastes valuable time, and introduces a host of factors that can affect the certainty of future results (i.e. temperature variation from leaving the water bath open while removing and replacing reaction tubes).
@@ -19,6 +20,8 @@ The combination 0.2 ml tube rack/floats described below simplify the process of 
 These racks are designed for easy assay inspection. The rack designs include a solid color background that enables the entire rack (with tubes) to be lifted out of the water bath and photographed directly. There is no need to transfer the tubes to another holder. 
 
 In addition we have designed a "photo booth" hood that the rack can sit directly on to provide consistent background lighting and focal distance from a smartphone. 
+
+## Case-Study
 
 
 ## Designs
