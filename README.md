@@ -14,11 +14,12 @@ This repository was created by Niam Kuttanna, Andrew Kan, and Haroon Dossani und
 ## Purpose
 Water bath floats are often not optimized for taking photographs of the reaction tubes during incubation. Often the process of inspecting assays comprises three steps: removing the water bath lid; detaching assay tubes from floating sponges; and holding up tube strips for visual inspection or photography. This yields inconsistent images, wastes valuable time, and introduces a host of factors that can affect the certainty of future results (i.e. temperature variation from leaving the water bath open while removing and replacing reaction tubes).
 
-The tube floats listed below simplify the process of imaging reactions. The default orientation of the racks provides for straightforward assay assembly and storage; the ergonomic design of each rack facilitates solution pipetting and ensures a secure hold on the standard 8-tube strip. On the other hand, each tube rack functions as a water bath float when flipped over, eliminating the inconveniences posed by water bath sponges. When built using ABS, tube racks are extremely durable and heat resistant.
+The combination 0.2 ml tube rack/floats described below simplify the process of running and imaging reactions. They are easily printed with a consumer grade 3D printer and the design files are downloadable from this repository. The racks provides for straightforward solution pipetting and ensures a secure hold on the standard 8-tube strip. The tube rack floats so the reactions and rack can be dropped in a water bath directly without the need to transfer the tubes to a float.
 
-These racks allow for much easier assay inspection. Removing LAMP tubes from the water bath float is no longer necessary, as these tube racks can be easily inspected independently (using one of the imaging systems is recommended to ensure near perfect photograph consistency). Tube racks can be extracted from water baths much quicker, avoiding unnecessary inconsistencies caused by keeping the water bath open. When using a design with an included handle, water bath glove contamination is all but non-existent.
+These racks are designed for easy assay inspection. The rack designs include a solid color background that enables the entire rack (with tubes) to be lifted out of the water bath and photographed directly. There is no need to transfer the tubes to another holder. 
 
-In essence, the following tube rack designs grant all the benefits of modern water bath floats and then some, with none of the downsides.
+In addition we have designed a "photo booth" hood that the rack can sit directly on to provide consistent background lighting and focal distance from a smartphone. 
+
 
 ## Designs
 ![alldesigns](https://i.imgur.com/1BKfuTm.jpg)
